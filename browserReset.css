@@ -1,0 +1,11 @@
+* {
+  -webkit-tap-hightlight-color: transparent;
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}
+button {
+  user-select: none;
+  -webkit-user-select: none;
+}
