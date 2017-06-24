@@ -1,5 +1,5 @@
 * {
-  -webkit-tap-hightlight-color: transparent;
+  -webkit-tap-highlight-color: transparent;
   outline: none;
 }
 button::-moz-focus-inner {
